@@ -12,6 +12,6 @@ $hasil = $bilangan1 + $bilangan2; else if ($operasi == "kurang")
 $hasil = $bilangan1 - $bilangan2; else if ($operasi == "kali") 
 $hasil = $bilangan1 * $bilangan2; else if ($operasi == "bagi")   
 $hasil = $bilangan1 / $bilangan2;      
- echo "Hasil perhitungannya adalah : ". $hasil; echo '</output>';
+ echo "Hasil operasi aritmatikanya adalah : ". $hasil; echo '</output>';
 
 ?>
